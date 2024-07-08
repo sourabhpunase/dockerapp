@@ -1,0 +1,17 @@
+after installation docker now comes why we need docker
+we need docker because virtual machine can take lot of space while we can simply use docker images instead of full os which is space efficient and version controlled 
+we can use ubuntu and can initialise other using commands
+to run = docker run -it node 
+here run is used to run it means we want interaction and node is the program we want to run
+
+to exist we can just type "exit"
+after running this commands if program is not present than the docker will pull out the program and if its already present than it will run it
+
+we have dockerhub similar to github where we can find all programs like node ubuntu
+ here we can use containers and after running node containers are running inisde our main program
+
+
+
+ question 
+ how to create our own image such that anyone can use it
+ 
